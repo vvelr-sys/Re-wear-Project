@@ -48,7 +48,7 @@
 - **Incident Response**: การตอบสนองและแก้ไขปัญหาตามระดับ Severity (1-3)
 
 ### 2.3 Use Case Diagram
-![Use Case Diagram](/docs/use.png)
+![Use Case Diagram](use.png)
 
 ---
 
@@ -197,7 +197,7 @@ erDiagram
 ## 6. Flow การทำงานหลัก (Sequence)
 
 ### 6.1 Sequence Diagram
-![Sequence Diagram](/docs/sequence.png)
+![Sequence Diagram](/sequence.png)
 
 ---
 
