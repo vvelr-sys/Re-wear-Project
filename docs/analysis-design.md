@@ -48,7 +48,7 @@
 - **Incident Response**: การตอบสนองและแก้ไขปัญหาตามระดับ Severity (1-3)
 
 ### 2.3 Use Case Diagram
-![Use Case Diagram](../UseCase-Diagram.drawio.png)
+![Use Case Diagram](/docs/use.png)
 
 ---
 
@@ -152,7 +152,7 @@ graph TD
 ```
 
 ### 5.2 Class Diagram
-![Class Diagram](../Class_Diagram.png)
+![Class Diagram](./class.png)
 
 ### 5.3 Mermaid ER Diagram
 ```mermaid
@@ -197,7 +197,7 @@ erDiagram
 ## 6. Flow การทำงานหลัก (Sequence)
 
 ### 6.1 Sequence Diagram
-![Sequence Diagram](../sequence.drawio.png)
+![Sequence Diagram](/docs/sequence.png)
 
 ---
 
